@@ -1,2 +1,2 @@
-# SquareGame-web
+# SquareGame
  
